@@ -35,8 +35,4 @@ This project aims to detect hate speech and offensive language using machine lea
 - Audio Input: Upload an audio file to analyze speech content.
 - Video Input: Upload a video file to detect hate speech in its audio track.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 
